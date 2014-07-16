@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uni0000"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="divide"/><!-- DIVISION SIGN -->
+      <map code="0x964" name="uni0964"/><!-- DEVANAGARI DANDA -->
+      <map code="0x965" name="uni0965"/><!-- DEVANAGARI DOUBLE DANDA -->
+      <map code="0xa81" name="uni0A81"/><!-- GUJARATI SIGN CANDRABINDU -->
+      <map code="0xa82" name="uni0A82"/><!-- GUJARATI SIGN ANUSVARA -->
+      <map code="0xa83" name="uni0A83"/><!-- GUJARATI SIGN VISARGA -->
+      <map code="0xa85" name="uni0A85"/><!-- GUJARATI LETTER A -->
+      <map code="0xa86" name="uni0A86"/><!-- GUJARATI LETTER AA -->
+      <map code="0xa87" name="uni0A87"/><!-- GUJARATI LETTER I -->
+      <map code="0xa88" name="uni0A88"/><!-- GUJARATI LETTER II -->
+      <map code="0xa89" name="uni0A89"/><!-- GUJARATI LETTER U -->
+      <map code="0xa8a" name="uni0A8A"/><!-- GUJARATI LETTER UU -->
+      <map code="0xa8b" name="uni0A8B"/><!-- GUJARATI LETTER VOCALIC R -->
+      <map code="0xa8c" name="uni0A8C"/><!-- GUJARATI LETTER VOCALIC L -->
+      <map code="0xa8d" name="uni0A8D"/><!-- GUJARATI VOWEL CANDRA E -->
+      <map code="0xa8f" name="uni0A8F"/><!-- GUJARATI LETTER E -->
+      <map code="0xa90" name="uni0A90"/><!-- GUJARATI LETTER AI -->
+      <map code="0xa91" name="uni0A91"/><!-- GUJARATI VOWEL CANDRA O -->
+      <map code="0xa93" name="uni0A93"/><!-- GUJARATI LETTER O -->
+      <map code="0xa94" name="uni0A94"/><!-- GUJARATI LETTER AU -->
+      <map code="0xa95" name="uni0A95"/><!-- GUJARATI LETTER KA -->
+      <map code="0xa96" name="uni0A96"/><!-- GUJARATI LETTER KHA -->
+      <map code="0xa97" name="uni0A97"/><!-- GUJARATI LETTER GA -->
+      <map code="0xa98" name="uni0A98"/><!-- GUJARATI LETTER GHA -->
+      <map code="0xa99" name="uni0A99"/><!-- GUJARATI LETTER NGA -->
+      <map code="0xa9a" name="uni0A9A"/><!-- GUJARATI LETTER CA -->
+      <map code="0xa9b" name="uni0A9B"/><!-- GUJARATI LETTER CHA -->
+      <map code="0xa9c" name="uni0A9C"/><!-- GUJARATI LETTER JA -->
+      <map code="0xa9d" name="uni0A9D"/><!-- GUJARATI LETTER JHA -->
+      <map code="0xa9e" name="uni0A9E"/><!-- GUJARATI LETTER NYA -->
+      <map code="0xa9f" name="uni0A9F"/><!-- GUJARATI LETTER TTA -->
+      <map code="0xaa0" name="uni0AA0"/><!-- GUJARATI LETTER TTHA -->
+      <map code="0xaa1" name="uni0AA1"/><!-- GUJARATI LETTER DDA -->
+      <map code="0xaa2" name="uni0AA2"/><!-- GUJARATI LETTER DDHA -->
+      <map code="0xaa3" name="uni0AA3"/><!-- GUJARATI LETTER NNA -->
+      <map code="0xaa4" name="uni0AA4"/><!-- GUJARATI LETTER TA -->
+      <map code="0xaa5" name="uni0AA5"/><!-- GUJARATI LETTER THA -->
+      <map code="0xaa6" name="uni0AA6"/><!-- GUJARATI LETTER DA -->
+      <map code="0xaa7" name="uni0AA7"/><!-- GUJARATI LETTER DHA -->
+      <map code="0xaa8" name="uni0AA8"/><!-- GUJARATI LETTER NA -->
+      <map code="0xaaa" name="uni0AAA"/><!-- GUJARATI LETTER PA -->
+      <map code="0xaab" name="uni0AAB"/><!-- GUJARATI LETTER PHA -->
+      <map code="0xaac" name="uni0AAC"/><!-- GUJARATI LETTER BA -->
+      <map code="0xaad" name="uni0AAD"/><!-- GUJARATI LETTER BHA -->
+      <map code="0xaae" name="uni0AAE"/><!-- GUJARATI LETTER MA -->
+      <map code="0xaaf" name="uni0AAF"/><!-- GUJARATI LETTER YA -->
+      <map code="0xab0" name="uni0AB0"/><!-- GUJARATI LETTER RA -->
+      <map code="0xab2" name="uni0AB2"/><!-- GUJARATI LETTER LA -->
+      <map code="0xab3" name="uni0AB3"/><!-- GUJARATI LETTER LLA -->
+      <map code="0xab5" name="uni0AB5"/><!-- GUJARATI LETTER VA -->
+      <map code="0xab6" name="uni0AB6"/><!-- GUJARATI LETTER SHA -->
+      <map code="0xab7" name="uni0AB7"/><!-- GUJARATI LETTER SSA -->
+      <map code="0xab8" name="uni0AB8"/><!-- GUJARATI LETTER SA -->
+      <map code="0xab9" name="uni0AB9"/><!-- GUJARATI LETTER HA -->
+      <map code="0xabc" name="uni0ABC"/><!-- GUJARATI SIGN NUKTA -->
+      <map code="0xabd" name="uni0ABD"/><!-- GUJARATI SIGN AVAGRAHA -->
+      <map code="0xabe" name="uni0ABE"/><!-- GUJARATI VOWEL SIGN AA -->
+      <map code="0xabf" name="uni0ABF"/><!-- GUJARATI VOWEL SIGN I -->
+      <map code="0xac0" name="uni0AC0"/><!-- GUJARATI VOWEL SIGN II -->
+      <map code="0xac1" name="uni0AC1"/><!-- GUJARATI VOWEL SIGN U -->
+      <map code="0xac2" name="uni0AC2"/><!-- GUJARATI VOWEL SIGN UU -->
+      <map code="0xac3" name="uni0AC3"/><!-- GUJARATI VOWEL SIGN VOCALIC R -->
+      <map code="0xac4" name="uni0AC4"/><!-- GUJARATI VOWEL SIGN VOCALIC RR -->
+      <map code="0xac5" name="uni0AC5"/><!-- GUJARATI VOWEL SIGN CANDRA E -->
+      <map code="0xac7" name="uni0AC7"/><!-- GUJARATI VOWEL SIGN E -->
+      <map code="0xac8" name="uni0AC8"/><!-- GUJARATI VOWEL SIGN AI -->
+      <map code="0xac9" name="uni0AC9"/><!-- GUJARATI VOWEL SIGN CANDRA O -->
+      <map code="0xacb" name="uni0ACB"/><!-- GUJARATI VOWEL SIGN O -->
+      <map code="0xacc" name="uni0ACC"/><!-- GUJARATI VOWEL SIGN AU -->
+      <map code="0xacd" name="uni0ACD"/><!-- GUJARATI SIGN VIRAMA -->
+      <map code="0xad0" name="uni0AD0"/><!-- GUJARATI OM -->
+      <map code="0xae0" name="uni0AE0"/><!-- GUJARATI LETTER VOCALIC RR -->
+      <map code="0xae1" name="uni0AE1"/><!-- GUJARATI LETTER VOCALIC LL -->
+      <map code="0xae2" name="uni0AE2"/><!-- GUJARATI VOWEL SIGN VOCALIC L -->
+      <map code="0xae3" name="uni0AE3"/><!-- GUJARATI VOWEL SIGN VOCALIC LL -->
+      <map code="0xae6" name="uni0AE6"/><!-- GUJARATI DIGIT ZERO -->
+      <map code="0xae7" name="uni0AE7"/><!-- GUJARATI DIGIT ONE -->
+      <map code="0xae8" name="uni0AE8"/><!-- GUJARATI DIGIT TWO -->
+      <map code="0xae9" name="uni0AE9"/><!-- GUJARATI DIGIT THREE -->
+      <map code="0xaea" name="uni0AEA"/><!-- GUJARATI DIGIT FOUR -->
+      <map code="0xaeb" name="uni0AEB"/><!-- GUJARATI DIGIT FIVE -->
+      <map code="0xaec" name="uni0AEC"/><!-- GUJARATI DIGIT SIX -->
+      <map code="0xaed" name="uni0AED"/><!-- GUJARATI DIGIT SEVEN -->
+      <map code="0xaee" name="uni0AEE"/><!-- GUJARATI DIGIT EIGHT -->
+      <map code="0xaef" name="uni0AEF"/><!-- GUJARATI DIGIT NINE -->
+      <map code="0xaf0" name="uni0AF0"/><!-- ???? -->
+      <map code="0xaf1" name="uni0AF1"/><!-- GUJARATI RUPEE SIGN -->
+      <map code="0x200b" name="uniFEFF"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="afii301"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2026" name="ellipsis"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x20b9" name="uni20B9"/><!-- ???? -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
