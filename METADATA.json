@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Gujarati UI",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 48516,
+  "fonts": [
+    {
+      "name": "Noto Sans Gujarati UI",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansGujaratiUI-Bold.ttf",
+      "postScriptName": "NotoSansGujaratiUI-Bold",
+      "fullName": "Noto Sans Gujarati UI Bold",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Gujarati UI",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansGujaratiUI-Regular.ttf",
+      "postScriptName": "NotoSansGujaratiUI",
+      "fullName": "Noto Sans Gujarati UI",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
